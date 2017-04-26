@@ -1,0 +1,10 @@
+\\bassstr\pupilhome$\00baughcbas\Documents\Mock attempt 2\Candidate\Holidays\Holidays\Holidays\bin\Release\Holidays.exe
+\\bassstr\pupilhome$\00baughcbas\Documents\Mock attempt 2\Candidate\Holidays\Holidays\Holidays\bin\Release\Holidays.pdb
+\\bassstr\pupilhome$\00baughcbas\Documents\Mock attempt 2\Candidate\Holidays\Holidays\Holidays\bin\Release\Holidays.xml
+\\bassstr\pupilhome$\00baughcbas\Documents\Mock attempt 2\Candidate\Holidays\Holidays\Holidays\obj\x86\Release\Holidays.Form1.resources
+\\bassstr\pupilhome$\00baughcbas\Documents\Mock attempt 2\Candidate\Holidays\Holidays\Holidays\obj\x86\Release\Holidays.Holidays.resources
+\\bassstr\pupilhome$\00baughcbas\Documents\Mock attempt 2\Candidate\Holidays\Holidays\Holidays\obj\x86\Release\Holidays.Resources.resources
+\\bassstr\pupilhome$\00baughcbas\Documents\Mock attempt 2\Candidate\Holidays\Holidays\Holidays\obj\x86\Release\Holidays.vbproj.GenerateResource.Cache
+\\bassstr\pupilhome$\00baughcbas\Documents\Mock attempt 2\Candidate\Holidays\Holidays\Holidays\obj\x86\Release\Holidays.exe
+\\bassstr\pupilhome$\00baughcbas\Documents\Mock attempt 2\Candidate\Holidays\Holidays\Holidays\obj\x86\Release\Holidays.xml
+\\bassstr\pupilhome$\00baughcbas\Documents\Mock attempt 2\Candidate\Holidays\Holidays\Holidays\obj\x86\Release\Holidays.pdb
